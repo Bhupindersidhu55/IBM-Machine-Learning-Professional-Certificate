@@ -1,3 +1,3 @@
 # IBM-Machine-Learning-Professional-Certificate
 
-https://www.coursera.org/account/accomplishments/specialization/certificate/SR8LBYEDS21X
+https://coursera.org/verify/professional-cert/SR8LBYEDS21X
